@@ -1,5 +1,5 @@
 # starfieldRunner
-Jogo criado no p5js 
+Jogo criado no P5JS, 
 Trabalho desenvolvido durante o curso de imersão GameDev da Alura
 
 
